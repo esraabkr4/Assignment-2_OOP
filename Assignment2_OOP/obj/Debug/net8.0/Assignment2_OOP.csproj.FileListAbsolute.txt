@@ -1,0 +1,14 @@
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\bin\Debug\net8.0\Assignment2_OOP.exe
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\bin\Debug\net8.0\Assignment2_OOP.deps.json
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\bin\Debug\net8.0\Assignment2_OOP.runtimeconfig.json
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\bin\Debug\net8.0\Assignment2_OOP.dll
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\bin\Debug\net8.0\Assignment2_OOP.pdb
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\obj\Debug\net8.0\Assignment2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\obj\Debug\net8.0\Assignment2_OOP.AssemblyInfoInputs.cache
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\obj\Debug\net8.0\Assignment2_OOP.AssemblyInfo.cs
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\obj\Debug\net8.0\Assignment2_OOP.csproj.CoreCompileInputs.cache
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\obj\Debug\net8.0\Assignment2_OOP.dll
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\obj\Debug\net8.0\refint\Assignment2_OOP.dll
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\obj\Debug\net8.0\Assignment2_OOP.pdb
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\obj\Debug\net8.0\Assignment2_OOP.genruntimeconfig.cache
+E:\Root course\c#\Basics\c#6(OOP)\Assignment2_OOP\obj\Debug\net8.0\ref\Assignment2_OOP.dll
